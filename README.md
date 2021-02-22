@@ -1,1 +1,1 @@
-## A creative problem solver with decades of experience spanning both design and development disciplines; who is passionate about crafting engaging, intuitive, performant, and beautiful interactive experiences.
+## A creative problem solver with decades of experience spanning both design and development disciplines. Passionate about crafting engaging, intuitive, performant, and beautiful interactive experiences.
