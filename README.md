@@ -1,4 +1,4 @@
-## A creative problem solver who is passionate about crafting engaging, intuitive, performant, and beautiful interactive experiences.
+## A creative problem solver who is passionate about crafting accessible, engaging, intuitive, performant, and beautiful interactive experiences.
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=levibeach&show_icons=true) -->
 
