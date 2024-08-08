@@ -1,5 +1,3 @@
-## A creative problem solver who is passionate about crafting accessible, engaging, intuitive, performant, and beautiful interactive experiences.
+# Hi. 👋
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=levibeach&show_icons=true) -->
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levibeach&layout=compact&show_icons=true&langs_count=10) -->
+My name is Levi Beach, and I’m a typical introverted Capricorn residing in West Michigan. My primary focus is crafting compelling digital experiences. With a background rooted in graphic design and visual communication, I often find myself the as the bridge between design and development disciplines. This duality may be attributed to my lifelong fascination with the intricate interplay between humans and systems.
